@@ -1,4 +1,8 @@
-Inainte de a rula programul trebuie intai rulate comenzile urmatoare in command prompt:
-1. python -m pip install pandas --user
-2. python -m pip install -U scikit-learn --user
-3. python3 -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.12.0-py3-none-any.whl --user
+Main-ul trebuie rulat python 3.7. Descarca versiunea 3.7 de python apoi scrie urmatoarele comenzi in command prompt:
+1. py -3.6 -p pip install pandas
+2. py -3.6 -p pip install sklearn
+3. py -3.6 -p pip install xlrd
+4. py -3.6 -p pip install tensorflow
+
+Daca va mai cere alte librarii la rularea programului, instalatile si pe alea ca mai sus.
+
